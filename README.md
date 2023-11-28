@@ -8,5 +8,3 @@ If you want to run this application, the first step required is to install the d
 
 ## Preview App
 ![preview img](/preview.png)
-
-> *"Smiles, love, and prayers can make your life happy. So continue with these things to always be happy in life. Wish you have the best day ahead."*
